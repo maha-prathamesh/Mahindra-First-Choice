@@ -1,6 +1,6 @@
 # Capstone_Project_Mahindra_First_Choice_Services
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RounakPython/Capstone_Project_Mahindra_First_Choice_Services/main/templates/first_choice.jpg" width="1200" height="430" title="hover text">
+  <img src="https://github.com/maha-prathamesh/Mahindra-First-Choice/blob/main/logo1.jpg" width="1200" height="430" title="hover text">
 </p>
 Mahindra First Choice Services (MFC Services) is a part of the USD 20.7 billion Mahindra group and is India's largest chain of multi-brand car and two-wheeler service workshops with a network of 500 franchise partners present in over 350 towns across 26 states.<br>
 
