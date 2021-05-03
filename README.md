@@ -9,7 +9,7 @@ Each four-wheeler service workshop is spread over an area of 7000 sq. ft- 15000 
 At MFC Services, customers can save up to 20 percent servicing costs as compared to authorized service centers. With the motto to provide right inspection, right parts and right billing, Car and Bike owners can now 'Make the Right Choice' by choosing MFC Services to solve their woes.
 
 Web Application : <br>
-[MultiOutput Regression Model](https://mahindrafirstchoice.herokuapp.com/)
+[Application Link](https://mahindrafirstchoice.herokuapp.com/)
 <br>
 Full Presentation : <br>
-[Presentation](https://github.com/RounakPython/Capstone_Project_Mahindra_First_Choice_Services/blob/main/MFCS_Final_Presentation.pptx)
+#[Presentation]()
