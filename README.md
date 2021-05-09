@@ -6,7 +6,7 @@ Mahindra First Choice Services (MFC Services) is a part of the USD 20.7 billion 
 
 Each four-wheeler service workshop is spread over an area of 7000 sq. ft- 15000 sq. ft and two-wheeler workshop area ranges from 600 sq. ft- 1200 sqft. MFC Services poised to deliver world-class automobile maintenance and service solutions.<br>
 
-At MFC Services, customers can save up to 20 percent servicing costs as compared to authorized service centers. With the motto to provide right inspection, right parts and right billing, Car and Bike owners can now 'Make the Right Choice' by choosing MFC Services to solve their woes.
+At MFC Services, customers can save up to 20 percent servicing costs as compared to authorized service centers. With the motto to provide right inspection, right parts and right billing, Car and Bike owners can now 'Make the Right Choice' by choosing MFC Services to solve their woes.<br>
 
 Web Application : <br>
 [Application Link](https://mahindrafirstchoice.herokuapp.com/)
